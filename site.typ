@@ -2,10 +2,9 @@
 
 // ─── サイト設定 ───────────────────────────────────────────────────────────────
 #let site = _site(
-  title: "My Typst Blog",
-  description: "Typstで書く小さなブログです。",
-  base_url: "https://minimarimo3.github.io/typst-blog-template",
-  github_repo: "https://github.com/minimarimo3/typst-blog-template",
+  title: "備忘録",
+  description: "Typstで作られた備忘録ブログ",
+  base_url: "https://www.minimarimo3.jp",
   language: "ja",
   theme: "dark",
   fonts: (
@@ -44,20 +43,20 @@
     // ),
   ),
   author: (
-    name: "Your Name",
-    bio: "Typstでブログを書いています。",
+    name: "minimarimo3",
+    bio: "その辺の大学生",
     socials: (
-      x: "",
-      misskey: "https://misskey.io/@yourname",
-      github: "https://github.com/yourname",
+      x: "https://x.com/minimarimo3",
+      misskey: "https://misskey.io/@minimarimo3",
+      github: "https://github.com/minimarimo3",
     ),
   ),
   analytics: (
-    cloudflare_token: none,
+    cloudflare_token: "a7dfd27a686347a185828e6330f5eecf",
   ),
   feedback: (
-    google_form_url: none,
-    entry_id: none,
+    google_form_url: "https://docs.google.com/forms/d/e/1FAIpQLSdyN8Q-zohUmlOxASKnJjwSSgs-S0PkHZMXDg2Zh8GgSTgOkQ/viewform",
+    entry_id: "entry.629693238",
   ),
   share: (
     x: true,
