@@ -2,7 +2,7 @@
 
 // ─── サイト設定 ───────────────────────────────────────────────────────────────
 #let site = _site(
-  title: "備忘録",
+  title: "まりもの備忘録",
   description: "Typstで作られた備忘録ブログ",
   base_url: "https://www.minimarimo3.jp",
   github_repo: "https://github.com/minimarimo3/www.minimarimo3.jp",
