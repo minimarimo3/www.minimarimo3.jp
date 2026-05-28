@@ -5,6 +5,7 @@
   title: "備忘録",
   description: "Typstで作られた備忘録ブログ",
   base_url: "https://www.minimarimo3.jp",
+  github_repo: "https://github.com/minimarimo3/www.minimarimo3.jp",
   language: "ja",
   theme: "dark",
   fonts: (
