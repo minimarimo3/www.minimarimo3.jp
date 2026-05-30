@@ -437,149 +437,107 @@ cnbc_2013_porn_rising_or_in_decline_2:
     type: web
     title: "CNBC"
 
-christian_science_monitor_1998_japan_hit_child_porn_web:
+fred_stlouisfed_org_table_data_-_south_k:
   type: web
-  title: "Japan hit for allowing child porn on the Web"
-  author:
-    - "Barr, Cameron W."
-  date: 1998-12-16
-  language: en-US
+  title: "Table Data - South Korean Won to U.S. Dollar Spot Exchange Rate | FRED | St. Louis Fed"
   url:
-    value: https://www.csmonitor.com/1998/1216/121698.intl.intl.1.html
-    date: 2026-05-27
-  parent:
-    type: newspaper
-    title: "The Christian Science Monitor"
-
-graham_2000_child_pornography_on_internet:
-  type: article
-  title: "Child Pornography on the Internet"
-  author:
-    - "Graham, Todd M."
-  date: 2000
-  language: en-US
-  url:
-    value: https://popcenter.asu.edu/sites/g/files/litvpz3631/files/problems/child_pornography/PDFs/Graham_2000.pdf
-    date: 2026-05-27
-  parent:
-    type: periodical
-    title: "Law Review of Michigan State University Detroit College of Law"
-
-us_state_dept_1999_country_report_japan:
-  type: web
-  title: "U.S. Department of State Country Report on Human Rights Practices 1999 - Japan"
-  author:
-    - "U.S. Department of State"
-  date: 2000-02-25
-  language: en-US
-  url:
-    value: https://www.refworld.org/reference/annualreport/usdos/2000/en/25503
-    date: 2026-05-27
+    value: https://fred.stlouisfed.org/data/AEXKOUS
+    date: 2026-05-29
   parent:
     type: web
-    title: "Refworld"
 
-the_register_1999_japan_child_porn_law:
+minimumwage_go_kr_minimum_wage_council_r:
   type: web
-  title: "Japan child porn law comes into force"
-  author:
-    - "Richardson, Tim"
-  date: 1999-11-03
-  language: en-GB
+  title: "Minimum Wage Council Republic of Korea> Minimum Wage System> Minimum wage by year"
   url:
-    value: https://www.theregister.com/1999/11/03/japan_kiddie_porn_law_comes/
-    date: 2026-05-27
+    value: https://www.minimumwage.go.kr/english/introduce/minWage.do?utm_source=chatgpt.com
+    date: 2026-05-29
   parent:
     type: web
-    title: "The Register"
 
-ips_2000_japan_tougher_action_child_porn_web:
+huffpost_2010_elmhurst_illinois_porn_sea:
   type: web
-  title: "JAPAN: Tougher Action Sought on Child Pornography on the Web"
-  author:
-    - "Kakuchi, Suvendrini"
-  date: 2000-06-15
-  language: en-US
-  url:
-    value: https://www.ipsnews.net/2000/06/japan-tougher-action-sought-on-child-pornography-on-the-web/
-    date: 2026-05-27
-  parent:
-    type: web
-    title: "Inter Press Service"
-
-abc_2014_japan_child_pornography_laws:
-  type: web
-  title: "Japan likely to pass long-awaited laws banning the possession of child pornography"
-  date: 2014-06-05
-  language: en-AU
-  url:
-    value: https://www.abc.net.au/news/2014-06-05/japan-child-pornography/5501416
-    date: 2026-05-27
-  parent:
-    type: web
-    title: "ABC News"
-
-chanto_2019_child_sex_education_when:
-  type: web
-  title: "子どもの性教育って、いつから始めるべき？"
-  author:
-    - "田川志乃"
-  date: 2019-03-11
-  language: ja
-  url:
-    value: https://chanto.jp.net/articles/-/79314?page=2
-    date: 2026-05-27
-  parent:
-    type: web
-    title: "CHANTO WEB"
-
-tv_life_2024_ueda_deep_sex_education:
-  type: web
-  title: "現代における性教育の必要性を考える SHELLY「この番組を見て、話のきっかけづくりにしてほしい」『上田と女がDEEPに吠える夜』今夜スタート"
-  date: 2024-04-02
-  language: ja
-  url:
-    value: https://www.tvlife.jp/variety/682582
-    date: 2026-05-27
-  parent:
-    type: web
-    title: "TV LIFE web"
-
-omura_city_2021_gender_center_news_236:
-  type: web
-  title: "大村市男女共同参画推進センターだより"
-  author:
-    - "大村市男女共同参画推進センター"
-  language: ja
-  url:
-    value: https://www.city.omura.nagasaki.jp/heartpal/kurashi/shiminkyodo/danjyo/kohoshi/documents/236.pdf
-    date: 2026-05-27
-  parent:
-    type: web
-    title: "大村市"
-
-yamanashi_nursing_association_2023_news_125:
-  type: web
-  title: "やまなし看護協会NEWS Vol.125"
-  author:
-    - "山梨県看護協会"
-  date: 2023-01
-  language: ja
-  url:
-    value: https://www.yna.or.jp/wp-content/uploads/2023/03/news125.pdf
-    date: 2026-05-27
-  parent:
-    type: web
-    title: "山梨県看護協会"
-
-toptenreviews_2013_internet_pornography_statistics_pdf:
-  type: web
-  title: "Internet Pornography Statistics - TopTenREVIEWS"
-  date: 2013-01-21
+  title: "Elmhurst, Illinois: Porn Search Capitol Of The U.S."
+  date: 2010-06-03
   language: en
   url:
-    value: https://ministryoftruth.me.uk/wp-content/uploads/2014/03/IFR2013.pdf
-    date: 2026-05-27
+    value: https://www.huffpost.com/entry/porn-search-capital-of-th_n_599856
+    date: 2026-05-29
+  abstract: "Elmhurst, Illinois: Porn Search Capitol Of The U.S."
+  note: "Section: Chicago"
   parent:
     type: web
-    title: "TopTenREVIEWS"
+    title: "HuffPost"
+
+gaeta_2012_viviendo_en_la_era_del_porno:
+  type: web
+  title: "Viviendo en la era del porno"
+  author:
+    - "Gaeta, Alejandro Romero"
+    - "MCS, ContributorPeriodista/Director de 380°"
+  date: 2012-08-13
+  language: en
+  url:
+    value: https://www.huffpost.com/entry/viviendo-en-la-era-del-porno_b_1771903
+    date: 2026-05-29
+  abstract: "Eran las épocas en que terminaba la educación primaria, en el barrio solo los de más edad, 14 o 15 años, presumían de tenerlas, las mostraban a lo lejos y contaban acerca de su \"gran conocimiento y experiencia\" acerca del tema, los más \"osados\" las escondían en las mochilas y las llevaban a la escuela, era sinónimo de popularidad."
+  note: "Section: Latino Voices"
+  parent:
+    type: web
+    title: "HuffPost"
+
+csmonitor_com_japan_hit_for_allowing_chi:
+  type: article
+  title: "Japan hit for allowing child porn on the Web"
+  serial-number:
+    issn: "0882-7729"
+  url:
+    value: https://www.csmonitor.com/1998/1216/121698.intl.intl.1.html
+    date: 2026-05-29
+  note: "Catalog: Christian Science Monitor"
+  parent:
+    type: periodical
+    title: "Christian Science Monitor"
+
+larimer_1999_japan_s_shame:
+  type: web
+  title: "Japan's Shame"
+  author:
+    - "Larimer, Tim"
+  date: 1999-04-19
+  language: en
+  url:
+    value: https://time.com/archive/6955411/japans-shame/
+    date: 2026-05-29
+  abstract: "TIM LARIMER TokyoPolice superintendent Keiji Goto logs onto his Toshiba laptop, opens his Netscape Internet browser and moves his mouse to the Yahoo! Japan search..."
+  note: "Section: World"
+  parent:
+    type: web
+    title: "TIME"
+
+jnpc_2015_マオド_ド_ブーア_ブキッキオ_国連_児童の性的搾取に関する:
+  type: video
+  title: "マオド・ド・ブーア＝ブキッキオ 国連 児童の性的搾取に関する特別報告者　会見　2015.10.26"
+  date: 2015-10-29
+  affiliated:
+    - role: collaborator
+      names: "jnpc"
+  url:
+    value: https://www.youtube.com/watch?v=4zQBTZ_R29c
+    date: 2026-05-29
+  runtime: "01:02:39"
+  abstract: "※訂正：会見中、通訳に誤りがありますので訂正いたします。\n07:26～07:34「例えば例としては援助交際があります。これは女子学生の3割は現在”援交”をやっているというふうにも言われているわけで・・・」の「３割」は「13%」の誤りです。訂正いたします。"
+  note: "Catalog: YouTube"
+
+ministry_of_foreign_affairs_of_japan_201:
+  type: web
+  title: "児童売買，児童買春及び児童ポルノ国連特別報告者に対する申し入れ"
+  date: 2015-11-09
+  language: ja
+  url:
+    value: https://www.mofa.go.jp/mofaj/press/release/press4_002626.html#:~:text=13%EF%BC%85%E3%81%A8%E3%81%84%E3%81%86%E6%95%B0%E5%80%A4%E3%81%AE%E6%83%85%E5%A0%B1%E6%BA%90%E5%8F%8A%E3%81%B3%E6%A0%B9%E6%8B%A0%E3%81%AF%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%89%E3%81%9A
+    date: 2026-05-29
+  parent:
+    type: web
+    title: "Ministry of Foreign Affairs of Japan"
+

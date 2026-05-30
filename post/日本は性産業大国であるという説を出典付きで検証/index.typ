@@ -25,7 +25,7 @@
     結論として、「6割」も「8割」も一次出典を欠く誇張・デマであり、何が事実で何が不明かを切り分けられないまま、運動・国連・性教育の権威を借りて広がってきた言説である。
   ],
   tags: ("検証", "性教育", "フェミニズム/フェミニスト", "デマ"),
-  draft: false,
+  draft: true,
 )
 
 #metadata(meta) <post-meta>
@@ -140,17 +140,22 @@ Xで講演会で6割説を言ってる人がいるが本当だろうかみたい
 
 == 女子学生の13%が援助交際を経験している
 
-あまり広まっていませんが、権威ある場での発言であっても検証されていない衝撃的な数字が使われることの好例として取り上げます。
+この説はあまり広まっていませんが、児童売買，児童買春及び児童ポルノ国連特別報告者による記者会見という権威ある場での発言であっても検証されていない数字がデータとして使われることの好例として取り上げます。
 
-検証されていない衝撃的な数字がいかに容易に権威ある場で流通し、指摘されれば崩れるか――その最も鮮明な前例が、国連特別報告者による統計の撤回である。
-2015年10月、児童売買・児童買春・児童ポルノ担当の国連特別報告者 マオド・ド・ブーア・ブキッキオ氏が記者会見で「女子学生の13%が援助交際を経験している」と発言した。日本政府（外務省）の強い抗議を受け、本人が書簡で次のように事実上撤回した。
+#datetime(year: 2015, month: 10, day: 26).display("[year]年[month]月[day]日")、児童売買・児童買春・児童ポルノ担当の国連特別報告者であるマオド・ド・ブーア・ブキッキオ氏が記者会見で以下のような発言をしました。
+#quote(attribution: [児童売買・児童買春・児童ポルノ担当の国連特別報告者であるマオド・ド・ブーア・ブキッキオ氏],
+  [...I'm referring in particular to this phenomena of "Enjo Kosai", which is a trend amongst school girls. Some thirteen percent of the school girls in Japan are involved in that kind of activity which...]
+)
+和訳すると、「・・・例えば例としては援助交際があります。これは女子学生の13%は現在「援交」をやっているというふうにも言われているわけで・・・」といった意味合いになります。
+
+#figure(caption: [女子学生の13パーセントが援助交際しているという発表が行われた実際のライブ映像],
+  youtube("https://youtu.be/4zQBTZ_R29c?si=8hMmuft6kb5iNK5n", start: 424)
+) <女子学生の13パーセントが援助交際しているという発表のライブ映像>
 
 
 「13%という十分に立証されていない数値を裏付ける公的かつ最近のデータはなく、記者会見における言及は誤解を招くものであった。今後この数値を使用するつもりはなく、国連人権理事会に提出する報告書でも言及しない」（外務省報道発表、2015年11月11日、mofa.go.jp）
 
 国連の特別報告者という最高度に権威ある立場ですら、検証を欠いた数字を口にし、撤回を余儀なくされた。「6割」「8割」も全く同じ性質の数字である。
-
-#youtube("https://youtu.be/4zQBTZ_R29c?si=8hMmuft6kb5iNK5n", start: 424)
 
 https://www.mofa.go.jp/mofaj/press/release/press4_002626.html#:~:text=13%EF%BC%85%E3%81%A8%E3%81%84%E3%81%86%E6%95%B0%E5%80%A4%E3%81%AE%E6%83%85%E5%A0%B1%E6%BA%90%E5%8F%8A%E3%81%B3%E6%A0%B9%E6%8B%A0%E3%81%AF%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%89%E3%81%9A
 
@@ -172,8 +177,8 @@ webarchive.orgには頭が上がりません。
     table.header("主張", "主に拡散されている場所", "結論", "拡散例"),
     "ポルノ生産において日本は約6割を占めている", "日本", "", [
       本
-      #link("https://www.city.omura.nagasaki.jp/heartpal/kurashi/shiminkyodo/danjyo/kohoshi/documents/236.pdf")[大村市男女共同参画推進センター]#cite(<omura_city_2021_gender_center_news_236>, form: none)
-      #link("https://www.yna.or.jp/wp-content/uploads/2023/03/news125.pdf")[公益社団法人山梨県看護協会]#cite(<yamanashi_nursing_association_2023_news_125>, form: none)
+      // #link("https://www.city.omura.nagasaki.jp/heartpal/kurashi/shiminkyodo/danjyo/kohoshi/documents/236.pdf")[大村市男女共同参画推進センター]#cite(<omura_city_2021_gender_center_news_236>, form: none)
+      // #link("https://www.yna.or.jp/wp-content/uploads/2023/03/news125.pdf")[公益社団法人山梨県看護協会]#cite(<yamanashi_nursing_association_2023_news_125>, form: none)
     ],
     "ポルノ生産において日本は約8割を占めている", "日本", "", [
       #link("https://x.com/kayoko_ochiai/status/396982187947352065")[X（）]#cite(<x_formerly_twitter_2013_xユーザーの落合香代子さん_夫が>, form: none)
