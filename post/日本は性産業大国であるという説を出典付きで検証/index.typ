@@ -38,8 +38,10 @@
 
 == データについて
 
-これはTopTenREVIEWSがXXXX年に公開したデータです。
-日本の統計ではなく、世界全体のポルノの流通量などをまとめたデータを公開していました（現在はWebArchiveからのみ閲覧可能）
+これはTopTenREVIEWSが公開したデータです。データ自体は現在WebArchiveからしか閲覧できませんが、2002年に初めてWebArchiveでのキャプチャが行われたことが確認できます。
+2002年はざっくりとした数値のみでしたが2006,7年版では詳細な数値が記載されています。
+当ブログでは最も情報量が多く、ページとしても見やすい2007年版を使用します。
+データは世界全体のポルノの消費・市場規模などをまとめたもので#[@TopTenREVIEWSから抜粋したデータ]のようになっています。
 #figure(caption: [データからポルノの消費量について一部抜粋],
   table(columns: 2,
     table.header("国", "推定額(USD)"),
@@ -50,17 +52,27 @@
     "（以下、豪・英・伊・加 …）", "…",
     "世界合計", "$97.06 billion",
   )
-)
-しかしながら、このデータの信憑性には非常に疑わしいものがあります。
-初めに、TopTenREVIEWSの創設者Jerry Ropelatoは、このプレスリリースを「最も正確で完全な世界ポルノ産業レポート」と自称しています。
-しかし個別の数値については"ABC, AP, AVN, BBC, CIA…" といったメディア・機関名を羅列するのみで、どの数字がどのソースに対応するのかは一切示されていません。
+) <TopTenREVIEWSから抜粋したデータ>
+しかしながらこのデータの信憑性には非常に疑わしいものがあります。
 
-まず、データが公開されたTODO年時点では中国と韓国においてポルノは刑法で完全に違法なものとされていました。
-所持した場合、中国では最高で無期懲役、韓国ではTODOの刑が科されます。#footnote[韓国ではTODO年に合法化されました。中国は現在でも違法です。]
+まず前提として、TopTenReviewsはサイト下部に`Sources:`という形で情報源を提示してはいるものの"ABC, AP, AVN, BBC, CIA, …" といったメディア・機関名を羅列するのみで、どの数字がどのソースに対応するのかは一切示されていない透明性に欠けるものです。
+下は実際にサイト内で使用されている文言です。#footnote[そもそもなんで出典にTopTenREVIEWSが入ってるんだよ、自分が出典ですか？w俺もやりたいな。「ソースですか？わ　た　し　で　す　（天下無双）」]
+#quote([
+  Sources:
+    Statistics are compiled from the credible sources mentioned. In reality, statistics are hard to ascertain and may be estimated by local and regional worldwide sources.
+
+
+    ABC, Associated Press, AsiaMedia, AVN, BBC, CATW, U.S. Census, Central Intelligence Agency, China Daily, Chosen.com, Comscore Media Metrix, Crimes Against Children, Eros, Forbes, Frankfurt Stock Exchange, Free Speech Coalition, Google, Harris Interactive, Hitwise, Hoover's, Japan Inc., Japan Review, Juniper Research, Kagan Research, ICMEC, Jan LaRue, The Miami Herald, MSN, Nielsen/NetRatings, The New York Times, Nordic Institute, PhysOrg.com, PornStudies, Pravda, Sarmatian Review, SEC filings, Secure Computing Corp., SMH, TopTenREVIEWS, Trellian, WICAT, Yahoo!, XBIZ
+  ], attribution: [©2007 TopTenREVIEWS, Inc.]
+)
+
+次に、そもそもデータが公開された2002年時点では中国と韓国においてポルノは刑法で完全に違法なものとされていました。
+中国では、刑法第363〜367条が猥褻物の製造・販売・頒布を犯罪と規定しており、最高で無期懲役まで課されます。
+韓国では、2026年現在は合法であるものの、当時は非合法で、
 // 中国：刑法第363〜367条が猥褻物の製造・販売・頒布を犯罪と規定
 // 韓国：ポルノの製造・流通は当時非合法 TODO: ソース検索
 
-次に、中国と韓国の数値が肉薄していることが異常です。
+三つ目に、中国と韓国の数値が肉薄していることが異常です。
 仮に韓国の数字を信じると、当時の総人口（男女、年齢問わず）の48,178,118で割っても国民1人あたり年間\$500超を非合法のポルノに支出していることになります。
 2007年時点での\$500はFREDの2007年平均レート`1ドル=928.9717ウォン`を使うと$500 times 928.9717 = 464,486"ウォン"$と算出できます。
 2007年の韓国最低賃金は時給3,480ウォンですから46.4万ウォンは最低賃金で約133時間分、40時間/週なら3週間ちょっとの労働分になります。
@@ -88,11 +100,13 @@
 === ハフポスト（スペイン語）
 
 TopTenREVIEWSのデータを元にポルノを批判している意見記事。
+https://www.huffpost.com/entry/viviendo-en-la-era-del-porno_b_1771903
 
 === ハフポスト（英語）
 
 こういうデータがあるみたいですという紹介。
 最後にこのデータを可視化したwww.onlinemba.comを紹介している。
+https://www.huffpost.com/entry/porn-search-capital-of-th_n_599856
 
 === www.onlinemba.com<www_onlinemba_com>
 
@@ -155,7 +169,7 @@ Xで講演会で6割説を言ってる人がいるが本当だろうかみたい
 
 「13%という十分に立証されていない数値を裏付ける公的かつ最近のデータはなく、記者会見における言及は誤解を招くものであった。今後この数値を使用するつもりはなく、国連人権理事会に提出する報告書でも言及しない」（外務省報道発表、2015年11月11日、mofa.go.jp）
 
-国連の特別報告者という最高度に権威ある立場ですら、検証を欠いた数字を口にし、撤回を余儀なくされた。「6割」「8割」も全く同じ性質の数字である。
+国連の特別報告者という最高度に権威ある立場ですら、検証を欠いた数字を口にし拡散された。「6割」「8割」も全く同じ性質の数字である。
 
 https://www.mofa.go.jp/mofaj/press/release/press4_002626.html#:~:text=13%EF%BC%85%E3%81%A8%E3%81%84%E3%81%86%E6%95%B0%E5%80%A4%E3%81%AE%E6%83%85%E5%A0%B1%E6%BA%90%E5%8F%8A%E3%81%B3%E6%A0%B9%E6%8B%A0%E3%81%AF%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%89%E3%81%9A
 
