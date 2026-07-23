@@ -1,6 +1,6 @@
-#import "/template.typ": article, calver, note, tip, important, warning, caution, env, post-meta
+#import "/template.typ": article, calver, note, tip, important, warning, caution, env, post
 
-#let meta = post-meta(
+#show: post.with(
   slug: "Zoteroのエクスポート形式にHayagrivaを追加する",
   title: "Zoteroのエクスポート形式にHayagrivaを追加する",
   create: calver(2026, 3, 14),
@@ -9,13 +9,14 @@
   draft: false,
 )
 
-#metadata(meta) <post-meta>
-#show: article.with(..meta)
-
 #env(
   ("Typst", "0.14.2", "TYPST_FEATURES=html"),
   ("Zotero", "8.0.4")
 )
+
+#warning([
+  #link("https://github.com/retorquere/zotero-better-bibtex/issues/2711#issuecomment-4978975430")[公式issueによると]zotero-better-bibtexでHayagrivaがサポートされたようなのでそちらを使うのが良いと思います。
+])
 
 = はじめに
 
