@@ -1,4 +1,24 @@
 #let post-data = (
+  "民間伝承_桃娘": (
+    url-slug: "%E6%B0%91%E9%96%93%E4%BC%9D%E6%89%BF_%E6%A1%83%E5%A8%98",
+    title: "桃娘という中国の伝説を調べたら中国ではなく2000年の2ちゃんねるに辿り着いた",
+    create: (year: 2026, month: 8, day: 17, patch: 0),
+    update: none,
+    description: "桃娘（とうにゃん、タオニャン）という古代中国の伝説を調べていたはずが、2000年の2ちゃんねるで都市伝説が組み上がっていく瞬間に遭遇した",
+    tags: ("民間伝承", "都市伝説", "ネットロア", "桃娘", "とうにゃん", "タオニャン", "歴史"),
+    draft: true,
+    source_url_path: "post/%E6%B0%91%E9%96%93%E4%BC%9D%E6%89%BF_%E6%A1%83%E5%A8%98/index.typ",
+  ),
+  "融景": (
+    url-slug: "%E8%9E%8D%E6%99%AF",
+    title: "融景のアイディア",
+    create: (year: 2026, month: 8, day: 6, patch: 0),
+    update: none,
+    description: "融景作成時に使えそうな情報まとめ",
+    tags: (),
+    draft: true,
+    source_url_path: "post/%E8%9E%8D%E6%99%AF/index.typ",
+  ),
   "日本は性産業大国であるという説を出典付きで検証": (
     url-slug: "%E6%97%A5%E6%9C%AC%E3%81%AF%E6%80%A7%E7%94%A3%E6%A5%AD%E5%A4%A7%E5%9B%BD%E3%81%A7%E3%81%82%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E8%AA%AC%E3%82%92%E5%87%BA%E5%85%B8%E4%BB%98%E3%81%8D%E3%81%A7%E6%A4%9C%E8%A8%BC",
     title: "日本は性産業大国であるという説を出典付きで検証",
@@ -23,7 +43,7 @@
     url-slug: "Zotero%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E5%BD%A2%E5%BC%8F%E3%81%ABHayagriva%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B",
     title: "Zoteroのエクスポート形式にHayagrivaを追加する",
     create: (year: 2026, month: 3, day: 14, patch: 0),
-    update: none,
+    update: (year: 2026, month: 7, day: 23, patch: 0),
     description: "Typstで文献リストとして使用可能なHayagriva形式（YAML）ですがZoteroで直接エクスポートできないため、いったんbibファイルでエクスポートしてからhayagriva cliで変換する必要があります。地味に手間なのでZoteroから直接Hayagrivaでのエクスポートを可能にする拡張機能を作成しました。",
     tags: (),
     draft: false,
@@ -42,6 +62,13 @@
 )
 
 #let tag-slugs = (
+  "民間伝承": "~e6b091e99693e4bc9de689bf",
+  "都市伝説": "~e983bde5b882e4bc9de8aaac",
+  "ネットロア": "~e3838de38383e38388e383ade382a2",
+  "桃娘": "~e6a183e5a898",
+  "とうにゃん": "~e381a8e38186e381abe38283e38293",
+  "タオニャン": "~e382bfe382aae3838be383a3e383b3",
+  "歴史": "~e6adb4e58fb2",
   "検証": "~e6a49ce8a8bc",
   "性教育": "~e680a7e69599e882b2",
   "フェミニズム/フェミニスト": "~e38395e382a7e3839fe3838be382bae383a02fe38395e382a7e3839fe3838be382b9e38388",
