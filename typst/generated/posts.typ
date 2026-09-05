@@ -13,7 +13,7 @@
     url-slug: "%E8%9E%8D%E6%99%AF",
     title: "融景のアイディア",
     create: (year: 2026, month: 8, day: 6, patch: 0),
-    update: none,
+    update: (year: 2026, month: 9, day: 4, patch: 0),
     description: "融景作成時に使えそうな情報まとめ",
     tags: (),
     draft: true,
