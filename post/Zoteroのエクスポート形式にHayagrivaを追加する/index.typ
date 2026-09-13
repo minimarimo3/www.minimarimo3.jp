@@ -1,7 +1,6 @@
 #import "/template.typ": article, calver, note, tip, important, warning, caution, env, post
 
 #show: post.with(
-  slug: "Zoteroのエクスポート形式にHayagrivaを追加する",
   title: "Zoteroのエクスポート形式にHayagrivaを追加する",
   create: calver(2026, 3, 14),
   update: calver(2026, 3, 24),

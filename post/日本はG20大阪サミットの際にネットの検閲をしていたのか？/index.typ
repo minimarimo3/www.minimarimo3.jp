@@ -1,7 +1,7 @@
 #import "/template.typ": article, calver, caution, env, important, note, post-meta, tip, warning
 
 #let meta = post-meta(
-  slug: "日本はG20大阪サミットの際にネット検閲をしていたのか？",
+  permalink: "/日本はG20大阪サミットの際にネット検閲をしていたのか？/",
   title: "日本はG20大阪サミットの際にネット検閲をしていたのか？",
   create: calver(2026, 4, 21),
   description: "してるわけない。火元となったCensored Planetによる記事訂正の不透明さを問います。",

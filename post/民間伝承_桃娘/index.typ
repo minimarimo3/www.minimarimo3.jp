@@ -1,7 +1,6 @@
 #import "/template.typ": post, calver, raw_html, warning, tip, note
 
 #show: post.with(
-  slug: "民間伝承_桃娘",
   title: "桃娘という中国の伝説を調べたら中国ではなく2000年の2ちゃんねるに辿り着いた",
   create: calver(2026, 8, 17),
   description: "桃娘（とうにゃん、タオニャン）という古代中国の伝説を調べていたはずが、2000年の2ちゃんねるで都市伝説が組み上がっていく瞬間に遭遇した",

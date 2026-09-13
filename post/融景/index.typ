@@ -1,7 +1,6 @@
 #import "/template.typ": post, calver
 
 #show: post.with(
-  slug: "融景",
   title: "融景のアイディア",
   create: calver(2026, 8, 6),
   description: "融景作成時に使えそうな情報まとめ",

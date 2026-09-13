@@ -1,7 +1,6 @@
 #import "/template.typ": article, calver, note, tip, important, warning, caution, env, post-meta
 
 #let meta = post-meta(
-  slug: "みんなの銀行をおすすめしたい",
   title: "みんなの銀行をおすすめしたい",
   create: calver(2026, 3, 14),
   description: "みんなの銀行を二次元文化好きの視点からおすすめする記事。口座から直接決済できる機能や手数料無料のことら送金、目的別に貯蓄を分けられるBox機能などを実際に使ってる人が紹介します。",
