@@ -1,4 +1,4 @@
-#import "/template.typ": article, calver, note, tip, important, warning, caution, env, post
+#import "/template.typ": calver, note, tip, important, warning, caution, env, post
 
 #show: post.with(
   title: "Zoteroのエクスポート形式にHayagrivaを追加する",

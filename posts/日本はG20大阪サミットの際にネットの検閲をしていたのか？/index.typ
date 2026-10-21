@@ -1,6 +1,6 @@
-#import "/template.typ": article, calver, caution, env, important, note, post-meta, tip, warning
+#import "/template.typ": calver, caution, env, important, note, post, tip, warning
 
-#let meta = post-meta(
+#show: post.with(
   permalink: "/日本はG20大阪サミットの際にネット検閲をしていたのか？/",
   title: "日本はG20大阪サミットの際にネット検閲をしていたのか？",
   create: calver(2026, 4, 21),
@@ -23,8 +23,6 @@
   draft: false,
 )
 
-#metadata(meta) <post-meta>
-#show: article.with(..meta)
 
 = 背景：Censored Planetとミシガン大学の記事
 
