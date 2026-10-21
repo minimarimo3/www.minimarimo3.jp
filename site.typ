@@ -8,7 +8,7 @@
   base_url: "https://www.minimarimo3.jp",
   github_repo: "https://github.com/minimarimo3/www.minimarimo3.jp",
   // "."も指定可能
-  posts_dir: "post",
+  posts_dir: "posts",
   // "ja" の短縮形、または (lang: "zh", region: "TW", script: "hani") を指定できる。
   // region は省略可、script の既定値は auto。
   language: "ja",

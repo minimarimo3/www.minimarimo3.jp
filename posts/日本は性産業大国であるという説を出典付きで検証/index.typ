@@ -1,6 +1,6 @@
-#import "/template.typ": article, calver, caution, env, important, note, post-meta, tip, warning, youtube
+#import "/template.typ": calver, caution, env, important, note, post, tip, warning, youtube
 
-#let meta = post-meta(
+#show: post.with(
   title: "日本は性産業大国であるという説を出典付きで検証",
   create: calver(2026, 5, 27),
   description: "この説の元となったデータ、そこからの誤情報の広まり方などについて出典付きでまとめました。",
@@ -27,8 +27,6 @@
   draft: true,
 )
 
-#metadata(meta) <post-meta>
-#show: article.with(..meta)
 
 = 日本のポルノ生産量は約200億ドル(\$19.98 billion)ほどになる
 
