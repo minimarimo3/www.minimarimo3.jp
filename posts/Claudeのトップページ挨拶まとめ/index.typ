@@ -3,7 +3,8 @@
 #show: post.with(
   title: "Claudeのトップページ挨拶まとめ",
   description: "Claude開いた時の挨拶？がかわいかったのでまとめ",
-  tags: ("Claude"),
+  create: calver(2026, 11, 1),
+  tags: ("Claude",),
   draft: false,
 )
 
